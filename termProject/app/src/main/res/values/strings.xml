@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SuperSudoku</string>
+    <string name="please_input_a_name_below">Please Input a name below:</string>
+    <string name="name">Name:</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string-array name="time_keys">
+        <item>300s</item>
+        <item>600s</item>
+        <item>1100s</item>
+    </string-array>
+    <string-array name="time_values">
+        <item>300</item>
+        <item>600</item>
+        <item>1100</item>
+    </string-array>
+    <string-array name="level_keys">
+        <item>Beginner</item>
+        <item>Master</item>
+        <item>Legendary</item>
+    </string-array>
+    <string-array name="level_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="this_is_an_sudoku_game_which_is_made_by_shikun_lin_players_can_choose_level_and_time_for_a_game">This is an Sudoku Game which is made by Shikun Lin. Players can choose level and time for a game</string>
+    <string name="check_sudoku">Check Sudoku</string>
+    <string name="pause_game">Pause Game</string>
+    <string name="remaining_time">Remaining time</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="e">E</string>
+</resources>

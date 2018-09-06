@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="300"
+        android:entries="@array/time_keys"
+        android:entryValues="@array/time_values"
+        android:key="prefTime"
+        android:title="Choose a timer for a game?(in second)" />
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/level_keys"
+        android:entryValues="@array/level_values"
+        android:key="prefLevel"
+        android:title="Choose a level of Sudoku?" />
+</PreferenceScreen>
